@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Kalp Vyas, an Electrical Engineering sophomore at IIT Bombay, interested in Data Science as well as fields where Algorithms are used.
+I am Kalp Vyas, an Electrical Engineering sophomore at IIT Bombay, interested in Data Science as well as fields related to Algorithms.
 <!--
 **kalp121212/kalp121212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
