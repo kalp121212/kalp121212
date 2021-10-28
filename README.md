@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kalp121212&count_private=true&show_icons=true&theme=tokyonight)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kalp121212&layout=compact&langs_count=5&hide=Verilog&theme=tokyonight)
+
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
@@ -34,10 +41,3 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px"> 
 </p>
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kalp121212&count_private=true&show_icons=true&theme=tokyonight)
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kalp121212&layout=compact&langs_count=5&hide=Verilog&theme=tokyonight)
