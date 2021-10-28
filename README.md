@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kalp121212&layout=compact&theme=tokyonight)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kalp121212&layout=compact&langs_count=5&hide=Verilog&theme=tokyonight)]
