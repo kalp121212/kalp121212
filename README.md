@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
+### I am Kalp Vyas, an Electrical Engineering sophomore at IIT Bombay.
 <!--
 **kalp121212/kalp121212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kalp121212&count_private=true&show_icons=true&theme=tokyonight)]
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kalp121212&layout=compact&theme=tokyonight)]
